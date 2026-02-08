@@ -2,19 +2,22 @@
 
 🎓 Information Technology-Undergraduate | 🤖 Aspiring AI / ML Engineer | 💻 Web Development |📍 Hyderabad, India  
 
-                                    ✨ **About Me**  
+                                    ✨  About Me 
 Passionate about technology, continuous learning, and building efficient software solutions.  
 I enjoy working with **AI/ML concepts, programming, and modern web technologies**, and collaborating on impactful ideas.
 
 ---
 
-##                               🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,sql,html,css,js,react,mongodb,mysql,aws,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,mongodb,mysql,aws,git,github,vscode&perline=7" />
 </p>
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
 
 ##                                  🌐 Where to find me
 
