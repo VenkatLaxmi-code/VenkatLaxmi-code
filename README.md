@@ -1,53 +1,24 @@
-# Hi, I'm Gottam Venkat Laxmi 👋
+# Hey! I'm Gottam Venkat Laxmi 👋
 
-🎓 B.Tech (Information Technology) Student | 🤖 Aspiring AI / ML Engineer | 📍 Hyderabad, India  
+🎓 Information Technology Undergraduate|🤖 Aspiring AI / ML Engineer | 💻 Web Development |📍 Hyderabad, India  
 
-I am a motivated Information Technology undergraduate with a strong academic foundation (CGPA: 9.42) and a keen interest in **Artificial Intelligence, Machine Learning, and Web Technologies**. I enjoy learning new technologies, building scalable solutions, and applying data-driven approaches to solve real-world problems.
-
----
-
-## ✨ About Me
-- 🌱 Currently learning **AI, Machine Learning, NLP & Computer Vision**
-- 💻 Strong interest in **Software Development & Web Technologies**
-- 🤝 Enjoy teamwork, collaboration, and knowledge sharing
-- 🎯 Goal: Build intelligent, scalable, and user-focused applications
+✨ **About Me**  
+I am passionate about technology and enjoy learning, building, and improving software solutions.  
+I have a strong foundation in **AI/ML concepts, programming, and web technologies**, and I love collaborating with like-minded individuals to create meaningful and impactful projects.
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### 👨‍💻 Programming Languages
-🐍 Python | ☕ Java | 🔵 C | 📊 R | 🗄️ SQL  
-
-### 🌐 Web Technologies
-🧱 HTML5 | 🎨 CSS3 | ⚡ JavaScript | ⚛️ React.js | 🎨 UI/UX  
-
-### 🤖 AI / ML & Data
-🧠 Machine Learning | 🧬 Deep Learning  
-🗣️ NLP | 😊 Sentiment Analysis | 👁️ Computer Vision  
-📈 Data Preprocessing & Model Evaluation  
-🧪 Scikit-learn | 🔥 TensorFlow (Basics) | 🧠 PyTorch (Basics)  
-
-### 🗄️ Databases
-🍃 MongoDB | 🐬 MySQL | ☁️ Supabase  
-
-### ☁️ Cloud & APIs
-☁️ AWS (EC2, S3) | 🌍 Google APIs | 🔗 API Integration  
-
-### 📊 Data & Visualization
-📊 Pandas | 🔢 NumPy | 📉 Matplotlib | 📊 Power BI | 📊 Tableau | 📄 Excel  
-
-### 🧰 Tools & Platforms
-🧑‍💻 Git | 🌍 GitHub | 🖥️ VS Code  
-🎨 Figma | 🖌️ Canva  
-
-### 💡 Soft Skills
-🗣️ Communication | 🤝 Team Collaboration  
-🧠 Problem Solving | ⚡ Quick Learner | 🔄 Adaptability  
+## 🛠️ Languages & Tools
+🐍 Python &nbsp; ☕ Java &nbsp; 🔵 C &nbsp; 🗄️ SQL  
+🌐 HTML &nbsp; 🎨 CSS &nbsp; ⚡ JavaScript &nbsp; ⚛️ React  
+🤖 Machine Learning &nbsp; 🧠 NLP &nbsp; 👁️ Computer Vision  
+🗃️ MongoDB &nbsp; 🐬 MySQL  
+☁️ AWS &nbsp; 🌍 Google APIs  
+🧑‍💻 Git &nbsp; 🌐 GitHub &nbsp; 🖥️ VS Code  
 
 ---
 
-## 🌐 Connect With Me
-🔗 GitHub: https://github.com/VenkatLaxmi-code
-📧 Email: venkatlaxmi357@gmail.com  
-💼 LinkedIn:https://www.linkedin.com/in/venkat-laxmi
+## 🌐 Where to find me
+💼 LinkedIn: https://www.linkedin.com/in/venkat-laxmi 
+🧑‍💻 GitHub: https://github.com/VenkatLaxmi1223  
+📧 Email: venkatlaxmi357@gmail.com
