@@ -1,7 +1,6 @@
 #                             Hey! I'm Gottam Venkat Laxmi 👋
 
-🎓 Information Technology-Undergraduate | 🤖 Aspiring AI / ML Engineer | 💻 Web Development 
-📍 Hyderabad, India  
+🎓 Information Technology-Undergraduate | 🤖 Aspiring AI / ML Engineer | 💻 Web Development |📍 Hyderabad, India  
 
                                     ✨ **About Me**  
 Passionate about technology, continuous learning, and building efficient software solutions.  
@@ -23,7 +22,7 @@ I enjoy working with **AI/ML concepts, programming, and modern web technologies*
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" />
   </a>
-  <a href="https://github.com/VenkatLaxmi1223" target="_blank">
+  <a href="https://github.com/VenkatLaxmi-code" target="_blank">
     <img src="https://img.icons8.com/glyph-neue/48/github.png" />
   </a>
   <a href="mailto:venkatlaxmi357@gmail.com">
