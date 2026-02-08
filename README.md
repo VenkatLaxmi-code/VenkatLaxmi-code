@@ -18,7 +18,7 @@ I enjoy collaborating with like-minded individuals and continuously improving my
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,mongodb,mysql,postgres,aws,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,mysql,aws,git,github,vscode&perline=7" />
 </p>
 
 ---
