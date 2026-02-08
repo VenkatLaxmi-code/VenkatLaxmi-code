@@ -1,7 +1,8 @@
+<h1 align="center">Hey! I'm Gottam Venkat Laxmi 👋</h1>
 
-# Hey! I'm Gottam Venkat Laxmi 👋
-
-🎓 Information Technology-Undergraduate | 🤖 Aspiring AI / ML Engineer | 💻 Web Development |📍 Hyderabad, India  
+<p align="center">
+🎓 Information Technology-Undergraduate | 🤖 Aspiring AI / ML Engineer | 💻 Web Development | 📍 Hyderabad, India
+</p>
 
 ---
 
@@ -32,4 +33,3 @@ I enjoy collaborating with like-minded individuals and continuously improving my
     <img src="https://img.icons8.com/color/48/gmail.png" />
   </a>
 </p>
-
