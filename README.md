@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey! I'm Vyshnavi 👋
 
-<!--
-**VenkatLaxmi-code/VenkatLaxmi-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate Student | 💻 Web Development Enthusiast  
+🚀 Passionate about technology, learning, and building projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ About Me
+- 🌱 Currently learning **Full Stack Development**
+- 💡 Interested in **Web Technologies & Open Source**
+- 🤝 Love collaborating and sharing knowledge
+- 🎯 Goal: Build meaningful and impactful projects
+
+---
+
+## 🛠️ Languages & Tools
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+---
+
+## 🌐 Where to find me
+- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 🧑‍💻 GitHub: https://github.com/your-username
+- 📧 Email: yourmail@gmail.com
