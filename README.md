@@ -33,6 +33,3 @@ I enjoy collaborating with like-minded individuals and continuously improving my
     <img src="https://img.icons8.com/color/48/gmail.png" />
   </a>
 </p>
-<p align="center">
-  📧 <strong>venkatlaxmi357@gmail.com</strong>
-</p>
