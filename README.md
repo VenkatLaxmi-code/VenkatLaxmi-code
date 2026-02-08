@@ -24,7 +24,7 @@ I enjoy collaborating with like-minded individuals and continuously improving my
 
 ## 🌐 Where to find me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" />
   </a>
