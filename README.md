@@ -1,4 +1,4 @@
-<div align="center">
+
 # Hey! I'm Gottam Venkat Laxmi 👋
 
 🎓 Information Technology-Undergraduate | 🤖 Aspiring AI / ML Engineer | 💻 Web Development |📍 Hyderabad, India  
@@ -32,4 +32,4 @@ I enjoy collaborating with like-minded individuals and continuously improving my
     <img src="https://img.icons8.com/color/48/gmail.png" />
   </a>
 </p>
-</div>
+
