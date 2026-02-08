@@ -1,32 +1,31 @@
-#                             Hey! I'm Gottam Venkat Laxmi 👋
+# Hey! I'm Gottam Venkat Laxmi 👋
 
 🎓 Information Technology-Undergraduate | 🤖 Aspiring AI / ML Engineer | 💻 Web Development |📍 Hyderabad, India  
 
-                                    ✨  About Me 
-Passionate about technology, continuous learning, and building efficient software solutions.  
-I enjoy working with **AI/ML concepts, programming, and modern web technologies**, and collaborating on impactful ideas.
+---
+
+## ✨ About Me
+
+### Passionate about technology, learning, and building impactful software solutions.
+
+I have a strong foundation in **programming, AI/ML concepts, and modern web technologies**.  
+I enjoy collaborating with like-minded individuals and continuously improving my technical and problem-solving skills.
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,mongodb,mysql,aws,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,mongodb,mysql,postgres,aws,git,github,vscode&perline=7" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
+---
 
-
-##                                  🌐 Where to find me
+## 🌐 Where to find me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" />
-  </a>
-  <a href="https://github.com/VenkatLaxmi-code" target="_blank">
-    <img src="https://img.icons8.com/glyph-neue/48/github.png" />
   </a>
   <a href="mailto:venkatlaxmi357@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png" />
