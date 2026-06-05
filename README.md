@@ -135,5 +135,5 @@ Computer Vision project using OpenCV and MediaPipe that controls games through r
 ---
 
 <p align="center">
-⭐ Building AI-powered solutions and continuously exploring emerging technologies.
+⭐ Building AI-powered , real-world solutions and continuously exploring emerging technologies.
 </p>
